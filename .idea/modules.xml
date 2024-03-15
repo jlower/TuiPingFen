@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/naoffer-intf/naoffer-intf.iml" filepath="$PROJECT_DIR$/naoffer-intf/naoffer-intf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naoffer-web/naoffer-web.iml" filepath="$PROJECT_DIR$/naoffer-web/naoffer-web.iml" />
+    </modules>
+  </component>
+</project>
